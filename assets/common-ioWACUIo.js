@@ -1,0 +1,1 @@
+const t="サインアウト",s="インストール",n="アプリをインストール",l="言語",o={title:"Workblox Business をインストール",intro:"Android にインストールする方法:",step1:"Chrome の<0>⋮ 3点メニュー</0>をタップ",step2:"<0>「ホーム画面に追加」</0>をタップ",step3:"<0>「追加」</0>をタップ",gotIt:"了解しました"},a={signOut:t,install:s,installApp:n,language:l,installModal:o};export{a as default,s as install,n as installApp,o as installModal,l as language,t as signOut};

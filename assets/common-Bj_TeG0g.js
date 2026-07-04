@@ -1,1 +1,0 @@
-const t="退出登录",s="安装",n="安装应用",l="语言",o={title:"安装 Workblox Business",intro:"在 Android 上安装:",step1:"点击 Chrome 中的<0>⋮ 三点菜单</0>",step2:"点击<0>“添加到主屏幕”</0>",step3:"点击<0>“添加”</0>",gotIt:"知道了"},a={signOut:t,install:s,installApp:n,language:l,installModal:o};export{a as default,s as install,n as installApp,o as installModal,l as language,t as signOut};

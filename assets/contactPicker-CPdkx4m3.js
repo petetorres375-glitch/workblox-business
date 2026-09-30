@@ -1,0 +1,1 @@
+const e="Kişilerden seç",a="Kapat",o="Ad, şirket, telefon veya e-postaya göre ara",n="Kişiler yükleniyor…",c="Henüz kişi yok. Kişiler aracında kişi ekleyin, burada görünürler.",t="Aramanızla eşleşen kişi yok.",i={choose:e,close:a,search:o,loading:n,empty:c,noMatches:t};export{e as choose,a as close,i as default,c as empty,n as loading,t as noMatches,o as search};

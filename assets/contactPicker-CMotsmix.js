@@ -1,0 +1,1 @@
+const o="連絡先から選ぶ",c="閉じる",s="名前、会社、電話番号、メールで検索",t="連絡先を読み込み中…",e="連絡先はまだありません。連絡先ツールで追加すると、ここに表示されます。",n="検索に一致する連絡先はありません。",a={choose:o,close:c,search:s,loading:t,empty:e,noMatches:n};export{o as choose,c as close,a as default,e as empty,t as loading,n as noMatches,s as search};

@@ -1,0 +1,1 @@
+const o="בחירה מאנשי הקשר",c="סגירה",s="חיפוש לפי שם, חברה, טלפון או אימייל",t="טוען אנשי קשר…",e="עדיין אין אנשי קשר. הוסיפו אנשים בכלי אנשי הקשר והם יופיעו כאן.",n="אין אנשי קשר שתואמים לחיפוש.",a={choose:o,close:c,search:s,loading:t,empty:e,noMatches:n};export{o as choose,c as close,a as default,e as empty,t as loading,n as noMatches,s as search};

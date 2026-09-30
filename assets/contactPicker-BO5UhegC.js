@@ -1,0 +1,1 @@
+const o="从联系人中选择",c="关闭",s="按姓名、公司、电话或电子邮件搜索",t="正在加载联系人…",e="还没有联系人。在联系人工具中添加后，会显示在这里。",n="没有与搜索匹配的联系人。",a={choose:o,close:c,search:s,loading:t,empty:e,noMatches:n};export{o as choose,c as close,a as default,e as empty,t as loading,n as noMatches,s as search};

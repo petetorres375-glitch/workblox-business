@@ -1,0 +1,1 @@
+const o="연락처에서 선택",c="닫기",s="이름, 회사, 전화번호 또는 이메일로 검색",t="연락처를 불러오는 중…",e="아직 연락처가 없습니다. 연락처 도구에서 추가하면 여기에 표시됩니다.",n="검색과 일치하는 연락처가 없습니다.",a={choose:o,close:c,search:s,loading:t,empty:e,noMatches:n};export{o as choose,c as close,a as default,e as empty,t as loading,n as noMatches,s as search};
